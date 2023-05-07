@@ -5,4 +5,4 @@
 
 ## Link to pages: 
 
-[expose.html](https://alvaroramos44.github.io/Lab5_Starter_Fork/)
+[expose.html](expose.html)
