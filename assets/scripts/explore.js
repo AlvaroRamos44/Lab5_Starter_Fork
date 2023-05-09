@@ -65,10 +65,7 @@ setTimeout(function() {
     synth.speak(utterThis);
 
     utterThis.addEventListener('start', function(){
-      if(synth.speaking){
         faceImage.src = "assets/images/smiling-open.png";
-      }
-
     });
 
     utterThis.addEventListener('end', function(){
