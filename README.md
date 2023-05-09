@@ -6,3 +6,5 @@
 ## Link to pages: 
 
 [expose.html](https://alvaroramos44.github.io/Lab5_Starter_Fork/expose.html)
+
+[explore.html](https://alvaroramos44.github.io/Lab5_Starter_Fork/explore.html)
