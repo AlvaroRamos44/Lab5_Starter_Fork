@@ -4,6 +4,12 @@ window.addEventListener('DOMContentLoaded', init);
 
 function init() {
 
+  let delayMS = 1000; 
+
+setTimeout(function() {
+  
+}, delayMS);
+
   const pressTalk = document.querySelectorAll("button");
   const faceImage = document.querySelector("img[alt='Smiling face']");
 
